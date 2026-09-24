@@ -1,0 +1,6 @@
+{
+  "name": "BhoomiSetu AI",
+  "description": "BhoomiSetu AI - AI-Powered Intelligent Land Record Digitization, Multilingual Indic OCR, Cadastral Validation and Verification System for Indian Land Administration (DILRMP/Digital India).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
